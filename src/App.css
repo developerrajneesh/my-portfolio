@@ -1,0 +1,16 @@
+body{
+  background-color: #000000;
+  color: #ffffff;
+}
+.margin-top{
+  margin-top: 150px !important;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+@media screen and (max-width:767px){
+.margin-top{
+margin-top: 70px !important;
+}
+
+}
