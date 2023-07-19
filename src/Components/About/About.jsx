@@ -14,7 +14,7 @@ function About() {
             <h1 className="heading-about text-center ">About</h1>
           </div>
           <p className="mt-5">
-           Connecting possibilities, one message at a time. Reach out and let's create something extraordinary together. Your vision, our expertise – let's make it happen! Contact us now for a brighter future
+            Passionate learner, creative problem solver, and tech enthusiast. Striving for growth and making a positive impact.
           </p>
 
           <ul className="about-items">
