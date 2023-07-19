@@ -12,8 +12,9 @@ function Projects() {
           </div>
         </div>
         <p className="mt-5 text-center">
-          Far far away, behind the word mountains, far from the countries
-          Vokalia and Consonantia
+                          Innovating the future, one idea at a time. Empowering change through <br/>
+               creativity. Transforming possibilities into reality. Together, we build a better tomorrow.
+
         </p>
       </div>
       <div className="row m-0 mt-5">
