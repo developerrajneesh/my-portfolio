@@ -9,28 +9,28 @@ function Footer() {
       <div className="row m-0 mt-5">
        
         <div className="col-6 col-md-4 footer-items">
-          <h2>Links</h2>
-          <li>Home</li>
-          <li>About</li>
-          <li>Services</li>
-          <li>Projects</li>
-          <li>Contact</li>
+          <h2 className="li-hover">Links</h2>
+          <li className="li-hover">Home</li>
+          <li className="li-hover">About</li>
+          <li className="li-hover">Services</li>
+          <li className="li-hover">Projects</li>
+          <li className="li-hover">Contact</li>
         </div>
         <div className="col-6 col-md-4 footer-items">
           <h2>Services</h2>
          
-          <li>Softwere Testing</li>
-          <li>React Application</li>
-          <li>Node Application</li>
-          <li>App Development</li>
-          <li>Web Development</li>
+          <li className="li-hover">Softwere Testing</li>
+          <li className="li-hover">React Application</li>
+          <li className="li-hover">Node Application</li>
+          <li className="li-hover">App Development</li>
+          <li className="li-hover">Web Development</li>
         </div>
         <div className="col-12 col-md-4 footer-item mt-md-0  mt-5">
          <div>
          <h2>Have a Questions?</h2>
-         <li> <ImLocation2/> - Mohali, Chandigarh</li> 
-          <li><BsFillTelephoneFill/> - +91 9161422065 </li>
-        <li>  <MdEmail/> - rajneeshshukla606@gmail.com</li>
+         <li className="li-hover"> <ImLocation2/> - Mohali, Chandigarh</li> 
+          <li className="li-hover"><BsFillTelephoneFill/> - +91 9161422065 </li>
+        <li className="li-hover">  <MdEmail/> - rajneeshshukla606@gmail.com</li>
          </div>
         </div>
       </div>
