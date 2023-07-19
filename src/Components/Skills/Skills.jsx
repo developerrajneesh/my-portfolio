@@ -11,8 +11,8 @@ function Skills() {
       </div>
 
       <p className="mt-5 text-center">
-        Far far away, behind the word mountains, far from the countries Vokalia
-        and Consonantia
+                    Dynamic and accomplished professional with a diverse skill set. Resourceful <br/>
+        problem solver, committed to driving efficiency and delivering exceptional results in various projects
       </p>
 
       <div className="row m-0">
