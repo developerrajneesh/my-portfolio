@@ -9,9 +9,9 @@ function About() {
           <img src={AboutImg} height={"400px"} alt="AboutImg" />
         </div>
         <div className="col-12 col-lg-6">
-          <div className="position-relative">
-            <h1 className="about-text">About Me</h1>
-            <h1 className="heading-about ">About</h1>
+          <div className="position-relative text-center">
+            <h1 className="about-text text-center">About Me</h1>
+            <h1 className="heading-about text-center ">About</h1>
           </div>
           <p className="mt-5">
             A small river named Duden flows by their place and supplies it with
