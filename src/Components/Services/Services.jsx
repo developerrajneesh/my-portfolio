@@ -10,7 +10,7 @@ function Services() {
         </div>
       </div>
       <p className="mt-5 text-center">
-      Far far away, behind the word mountains, far from the countries Vokalia and Consonantia
+   Leading the way with advanced IT solutions, we empower businesses to succeed in the digital era.
       </p>
       
       <div className="row m-0 mt-5">
