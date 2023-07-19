@@ -13,8 +13,9 @@ function Contact() {
         </div>
       </div>
       <p className="mt-5 text-center">
-        Far far away, behind the word mountains, far from the countries Vokalia
-        and Consonantia
+        Connecting possibilities, one message at a time. Reach out and let's create <br/>
+        
+        something extraordinary together. Your vision, our expertise – let's make it happen! Contact us now for a brighter future
       </p>
       <div className="row m-0 mt-5">
         <div className="col-6 col-md-3 icon-flex">
