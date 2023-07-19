@@ -14,8 +14,7 @@ function About() {
             <h1 className="heading-about text-center ">About</h1>
           </div>
           <p className="mt-5">
-            A small river named Duden flows by their place and supplies it with
-            the necessary regelialia.
+           Connecting possibilities, one message at a time. Reach out and let's create something extraordinary together. Your vision, our expertise – let's make it happen! Contact us now for a brighter future
           </p>
 
           <ul className="about-items">
