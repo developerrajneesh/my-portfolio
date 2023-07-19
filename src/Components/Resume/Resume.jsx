@@ -14,9 +14,8 @@ function Resume() {
       </div>
 
       <p className="mt-5 text-center">
-        A small river named Duden flows by their place and supplies it with the{" "}
-        <br /> necessary regelialia. It is a paradisematic country, in which
-        roasted parts of sentences fly into your mouth.
+          Dedicated and adaptable professional with a strong track record in web development.  Combining <br/>
+  technical expertise, communication skills, and a drive for excellence to deliver impactful results and drive organizational success.
       </p>
       <div className="row m-0 mt-5">
         <div className="col-12 col-lg-6">
