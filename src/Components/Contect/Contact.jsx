@@ -37,7 +37,7 @@ function Contact() {
       <div className="container">
         <div className="row m-0 mt-5">
           <div className="col-12 col-md-6 d-none d-md-flex justify-content-center align-items-center contact-img-card">
-            <img src={AboutImg} height={'450px'} alt="AboutImg" />
+            <img src={AboutImg} className="img-fluid" height={'450px'} alt="AboutImg" />
           </div>
           <div className="col-12 col-md-6 bg-light ">
             <form className="py-3 p-md-5">
