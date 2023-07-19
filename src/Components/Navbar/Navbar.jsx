@@ -27,7 +27,7 @@ function Navbar({handleScroll,Ref1,Ref2,Ref3,Ref4,Ref5,Ref6,Ref7}) {
                 data-bs-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation" onClick={()=>handleScroll(Ref1)}>
                   <span
 
-                    className="nav-link text-light"
+                    className="nav-link li-hover  text-light"
                     aria-current="page"
                   >
                     Home
@@ -40,7 +40,7 @@ function Navbar({handleScroll,Ref1,Ref2,Ref3,Ref4,Ref5,Ref6,Ref7}) {
                 data-bs-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation"
                 onClick={()=>handleScroll(Ref2)}>
                   <span
-                    className="nav-link text-light"
+                    className="nav-link li-hover  text-light"
                     aria-current="page"
                     
                   >
@@ -53,7 +53,7 @@ function Navbar({handleScroll,Ref1,Ref2,Ref3,Ref4,Ref5,Ref6,Ref7}) {
                  aria-controls="navbarSupportedContent"
                 data-bs-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation"onClick={()=>handleScroll(Ref3)}>
                   <span
-                    className="nav-link text-light"
+                    className="nav-link li-hover  text-light"
                     aria-current="page"
                    
                   >
@@ -66,7 +66,7 @@ function Navbar({handleScroll,Ref1,Ref2,Ref3,Ref4,Ref5,Ref6,Ref7}) {
                  aria-controls="navbarSupportedContent"
                 data-bs-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation"onClick={()=>handleScroll(Ref4)}>
                   <span
-                    className="nav-link text-light"
+                    className="nav-link li-hover  text-light"
                     aria-current="page"
                    
                   >
@@ -79,7 +79,7 @@ function Navbar({handleScroll,Ref1,Ref2,Ref3,Ref4,Ref5,Ref6,Ref7}) {
                  aria-controls="navbarSupportedContent"
                 data-bs-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation"onClick={()=>handleScroll(Ref5)}>
                   <span
-                    className="nav-link text-light"
+                    className="nav-link li-hover  text-light"
                     aria-current="page"
                   >
                     Skills
@@ -91,7 +91,7 @@ function Navbar({handleScroll,Ref1,Ref2,Ref3,Ref4,Ref5,Ref6,Ref7}) {
                  aria-controls="navbarSupportedContent"
                 data-bs-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation"onClick={()=>handleScroll(Ref6)}>
                   <span
-                    className="nav-link text-light"
+                    className="nav-link  li-hover text-light"
                     aria-current="page"
                   >
                     Projects
@@ -103,7 +103,7 @@ function Navbar({handleScroll,Ref1,Ref2,Ref3,Ref4,Ref5,Ref6,Ref7}) {
                  aria-controls="navbarSupportedContent"
                 data-bs-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation"onClick={()=>handleScroll(Ref7)}>
                   <span
-                    className="nav-link text-light"
+                    className="nav-link  li-hover text-light"
                     aria-current="page"
                   >
                     Contact
